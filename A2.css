@@ -1,0 +1,37 @@
+.button {
+    color: white;
+    background-color: blue;
+    border-radius: 70px;
+    border-spacing: 80px;
+    width: 350px;
+    padding: 15px;
+    font-size: medium;
+    position: relative;
+    left: 450px;
+    
+}
+.d{
+    position:relative;
+    right: 100px;
+}
+.t{
+    border:1px solid black;
+    position: relative;
+    top: 5px;
+    bottom: 5px;
+    padding: 0px 40px;
+}
+a{
+    color: rgb(18, 160, 18);
+}
+.b{
+    padding: 10px;
+    background-color: rgb(21, 185, 21);
+    border-radius: 150px;
+    width: 200px;
+    font-size: medium;
+    color: white;
+    border-spacing: 50px;
+    border-left-style: inset;
+    border-top-style: inset;
+}
